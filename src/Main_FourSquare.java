@@ -1,3 +1,8 @@
+/*
+ *This class requires the JSONsimple library as a dependency in order to 
+ *parse the 4square category file 
+ */
+
 import java.awt.image.BufferedImage;
 import java.io.BufferedReader;
 import java.io.File;
